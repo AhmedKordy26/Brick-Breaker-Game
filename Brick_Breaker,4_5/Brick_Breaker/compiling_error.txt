@@ -1,0 +1,5 @@
+In file included from C:\Users\Ahmed_k\Desktop\Brick_Breaker\Brick_Breaker\Ball.cpp:1:0:
+C:\Users\Ahmed_k\Desktop\Brick_Breaker\Brick_Breaker\GameHeader.h:2:10: fatal error: SDL.h: No such file or directory
+ #include <SDL.h>
+          ^~~~~~~
+compilation terminated.

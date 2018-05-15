@@ -1,0 +1,20 @@
+﻿Build started 4/30/2018 3:15:25 AM.
+     1>Project "C:\Users\Ahmed_k\Desktop\Brick_Breaker\Brick_Breaker\Brick_Breaker.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"F:\Projects\OOP\Dev\SDL2_image-2.0.1\include" /I"C:\Users\Ahmed_k\Desktop\SDL2-2.0.8\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Ball.cpp Bricks.cpp Game.cpp GameMain.cpp GameObject.cpp Paddle.cpp Texrures.cpp
+         Texrures.cpp
+         Paddle.cpp
+         GameObject.cpp
+         GameMain.cpp
+     1>c:\users\ahmed_k\desktop\brick_breaker\brick_breaker\gamemain.cpp(26): warning C4244: '+=' : conversion from 'long double' to 'int', possible loss of data
+     1>c:\users\ahmed_k\desktop\brick_breaker\brick_breaker\gamemain.cpp(79): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'Uint32', possible loss of data
+         Game.cpp
+     1>c:\users\ahmed_k\desktop\brick_breaker\brick_breaker\game.cpp(200): error C2660: 'GameLevel::CheckBrickCollision' : function does not take 0 arguments
+         Bricks.cpp
+         Ball.cpp
+         Generating Code...
+     1>Done Building Project "C:\Users\Ahmed_k\Desktop\Brick_Breaker\Brick_Breaker\Brick_Breaker.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:04.10
